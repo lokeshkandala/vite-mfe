@@ -15,7 +15,7 @@
   "name": "vite-mfe",
   "packageManager": "yarn@1.22.19",
   "workspaces": [
-    "apps/*",
+    "modules/*",
     "packages/*"
   ]
 }
